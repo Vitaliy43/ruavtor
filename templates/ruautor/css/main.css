@@ -1,0 +1,42 @@
+table.sandbox a {color: #000;}
+#container_avatar {margin-left: 11px;margin-top: 5px;}
+#downloader_avatar {
+	display:none;
+}
+#link_downloader_avatar {
+	white-space:nowrap;
+}
+.button {
+	margin-top:5px;
+}
+#first_enter_info {padding: 10px;width: 400px;font-size: 14px;font-weight: bold;}
+.user_profile a {color: #000000;text-decoration: none;}
+
+.registration div {margin-bottom: 10px;}
+.clear  {margin-left: 0px;}
+#titleExt {margin-top: 10px;}
+
+.content_profile .posts {margin-top: 10px;}
+.content_profile .author_comments {margin-top: 15px;}
+#publisher_header {width: 75%;margin-bottom:15px;}
+#change_url {width: 90%;margin-bottom:15px;}
+#url {width: 80%;margin-bottom:15px;}
+.button_publish {margin-top: 10px;}
+.article_content {padding: 5px;margin-top: 10px;}
+.header_article {margin-bottom: 10px;}
+#list_articles {margin-top: 10px;margin-bottom: 20px;}
+#list_articles a {text-decoration:underline;}
+#list_articles .actions a {color:black;text-decoration: none;}
+#list_articles img {margin: 0px;}
+#list_articles p {margin-bottom: 4px;}
+#moderate_reason {width: 212px;margin-top: 5px;}
+.link_info {text-decoration: underline;cursor: pointer;}
+
+#container_outer_link {margin-top: 15px;margin-bottom: 5px;}
+#outer_link {width: 500px;}
+.pay_for_link {display: none;}
+#profile {border: 1px dotted #FA4100;width: 95%;margin-bottom: 5px;}
+#header_profile {padding-left: 11px;}
+#contact .textbox {margin-bottom: 10px;}
+.right #detail {margin-top: 10px;padding-left: 5px;}
+#container_form_search {background:#d8dbcd;}
